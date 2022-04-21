@@ -4,3 +4,5 @@ Team Lead: Igwe Favour(SH-IT-0040787)
 Assistant Team Lead: Josphine Ezemuoka(SH-IT-0139786)
 Team Members
 Egondu Ihemebiri (SH-IT-0021906)
+Chioma Ezeigbo (SH-IT-0147227)
+Emmanuel Okokon Udo (SH-IT-0112469)
